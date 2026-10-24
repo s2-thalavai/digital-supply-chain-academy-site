@@ -1,0 +1,27 @@
+2:"$Sreact.fragment"
+3:"/digital-supply-chain-academy-site/_next/static/chunks/3z7m7vqav1bez.js"
+4:"/digital-supply-chain-academy-site/_next/static/chunks/3sg0-8c_fdwzr.js"
+5:I[84124,["$3","$4"],"default"]
+6:I[2581,["$3","$4"],"default"]
+b:I[90298,["$3","$4"],""]
+c:I[47289,["$3","$4"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[47289,["$3","$4"],"$10"]
+12:"MetadataBoundary"
+13:I[47289,["$3","$4"],"$12"]
+14:I[55529,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","ol",null,{"children":[["$","li",null,{"children":["$","$Lb",null,{"href":"/","className":"home-ic","children":[["$","svg",null,{"viewBox":"0 0 24 24","width":"14","height":"14","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":[["$","path",null,{"d":"M3 11 12 4l9 7v10H3z"}],["$","path",null,{"d":"M9.5 21v-6h5v6"}]]}],"Home"]}]}],[["$","li","Course",{"children":["$","$Lb",null,{"href":"/course/","children":"Course"}]}],["$","li","Roadmap",{"children":["$","span",null,{"aria-current":"page","children":"Roadmap"}]}]]]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://s2-thalavai.github.io/digital-supply-chain-academy-site/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Course\",\"item\":\"https://s2-thalavai.github.io/digital-supply-chain-academy-site/course/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Roadmap\"}]}"}}]]}],["$","article",null,{"className":"page","children":[["$","header",null,{"className":"section-head","children":["$undefined",["$","h1",null,{"children":"The roadmap is now the 4-week course"}],["$","p",null,{"className":"lead","children":"We replaced the long roadmap with a shorter path: four weeks, eight modules, about an hour a day."}],"$undefined"]}],"$undefined",[["$","meta",null,{"httpEquiv":"refresh","content":"0; url=../course/"}],["$","$Lb",null,{"className":"btn primary","href":"/course/","children":"Go to the course →"}]],"$undefined"]}]],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$9"}}]]
+1:[["children",{"s":"roadmap","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#F7F5F0","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0E1822","media":"(prefers-color-scheme: dark)"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Learning roadmap · Digital Supply Chain Academy"}],["$","meta","1",{"name":"description","content":"The learning roadmap is now the 4-week course."}],["$","link","2",{"rel":"author","href":"https://s2-thalavai.github.io/"}],["$","meta","3",{"name":"author","content":"Sivasankar Thalavai"}],["$","meta","4",{"property":"og:title","content":"Learning roadmap · Digital Supply Chain Academy"}],["$","meta","5",{"property":"og:description","content":"The learning roadmap is now the 4-week course."}],["$","meta","6",{"property":"og:site_name","content":"Digital Supply Chain Academy"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"Learning roadmap · Digital Supply Chain Academy"}],["$","meta","10",{"name":"twitter:description","content":"The learning roadmap is now the 4-week course."}],["$","link","11",{"rel":"icon","href":"/icon.svg"}],["$","$L14","12",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$9"}},"a":"$@16","u":"$@17","b":"CKLvanGXbZlbKPzEun2UI"}
+e:null
+17:true
+9:300
+9:C
+16:0
+7:"$undefined"
+15:"$undefined"
+f:"$undefined"

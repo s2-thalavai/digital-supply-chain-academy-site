@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://s2-thalavai.github.io/digital-supply-chain-academy-site/sitemap.xml

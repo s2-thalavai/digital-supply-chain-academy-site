@@ -1,0 +1,7 @@
+:HL["/digital-supply-chain-academy-site/_next/static/chunks/3drrtwyr2v6__.css","style"]
+:HL["/digital-supply-chain-academy-site/_next/static/media/237858b39a32779d-s.p.2cyn07wtgehh0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/digital-supply-chain-academy-site/_next/static/media/9a321a2c78eff0b5-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"id","t":"d","k":"technology","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"areas","h":131136,"c":"$Q2"}]]
+0:{"b":"CKLvanGXbZlbKPzEun2UI","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
